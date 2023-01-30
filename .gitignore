@@ -131,3 +131,16 @@ dmypy.json
 /ny_taxi_postgres_data
 yellow_tripdata_2021-01.csv
 Untitled.ipynb
+yellow_tripdata_2019-01.csv
+.idea/dbnavigator.xml
+.idea/de_datatalks_club.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/inspectionProfiles/Project_Default.xml
+!/bin/
+!/etc/
+!/ny_taxi_postgres_data/
+!/bin/
+!/pyvenv.cfg
