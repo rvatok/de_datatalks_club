@@ -1542,3 +1542,4 @@ terraform/terraform.tfstate
 terraform/terraform.tfstate.backup
 terraform/.terraform/terraform.tfstate
 terraform/.terraform/providers/registry.terraform.io/hashicorp/google/4.51.0/darwin_amd64/terraform-provider-google_v4.51.0_x5
+fhv_tripdata_2019-01.csv.gz
