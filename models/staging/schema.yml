@@ -1,0 +1,13 @@
+version: 2
+
+sources:
+    - name: staging
+      database: aerobic-canto-376317
+      schema: aero_dataset_us
+
+      tables:
+        - name: green_tripdata
+        - name: yellow_tripdata
+          # freshness:
+          #   error_after: {count: 6, period: hour}
+              

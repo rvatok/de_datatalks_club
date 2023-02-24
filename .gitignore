@@ -129,9 +129,7 @@ dmypy.json
 .pyre/
 
 /ny_taxi_postgres_data
-yellow_tripdata_2021-01.csv
 Untitled.ipynb
-yellow_tripdata_2019-01.csv
 .idea/*
 .idea/de_datatalks_club.iml
 .idea/misc.xml
